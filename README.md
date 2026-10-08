@@ -2,7 +2,7 @@
 # Welcome my Github 
 
 
-**Roggerlv52/Roggerlv52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Roggerlv52/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
